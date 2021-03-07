@@ -1,0 +1,21 @@
+-- Kako se pišejo razredi? --
+    O: Imena so samostalniki, poskušamo jih ohraniti kratke in preproste.
+       Prva črka vsake besede je velika, vključno s prvo besedo.
+       Primer: class Primer;
+
+-- Kako se pišejo lastnosti? --
+    O: Začetnica prve besede je mala, vse ostale velike.
+       Primer: int sizeOfSomething;
+
+-- Kako se pišejo konstante? --
+    O: Vse črke so velike, več besed ločimo s podčrtajem.
+       Primer: static final int DEFAULT_SPEED = 2133;
+
+-- Kako se pišejo metode? --
+    O: Imena metod so glagoli, začetnica prve besede mala, ostale velike.
+       Primer: getSpeed();
+
+
+--- Primer Javanskega projekta ---
+URL1:
+URL2:
